@@ -1,1 +1,1 @@
-# Water_potability_prediction
+This proposal is very important because of the development in industries and releasing wastewater into seas and rivers polluting underground water.so,predicting water potability helps to identify the purity.Potable water helps prevent the spread of waterborne diseases.
